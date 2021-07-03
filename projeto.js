@@ -9,3 +9,13 @@
 //   }
 
 
+// 	compareTrue(ola,ola2);
+
+
+// function calcArea(base,height) {
+//   result = (base * height)/2;
+// 	console.log(result);
+// }
+
+// calcArea(5,2);
+
